@@ -22,6 +22,8 @@ select * from veri1.txt where ad=fatih
 select number from veri2.txt where ad=selin
 select ad from veri2.txt where number=2
 
+![SS4](https://raw.githubusercontent.com/omerkucuker/DatabaseYonetim/main/ss4.PNG)
+
 ![SS1](https://raw.githubusercontent.com/omerkucuker/DatabaseYonetim/main/ss1.PNG)
 ![SS2](https://raw.githubusercontent.com/omerkucuker/DatabaseYonetim/main/ss2.PNG)
 ![SS3](https://raw.githubusercontent.com/omerkucuker/DatabaseYonetim/main/ss3.PNG)
